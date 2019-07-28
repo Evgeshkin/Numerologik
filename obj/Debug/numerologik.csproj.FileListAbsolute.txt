@@ -1,0 +1,17 @@
+E:\Projeckt2014\Numerologik\numerologik\numerologik\bin\Debug\numerologik.exe
+E:\Projeckt2014\Numerologik\numerologik\numerologik\bin\Debug\numerologik.pdb
+E:\Projeckt2014\Numerologik\numerologik\numerologik\obj\Debug\numerologik.csprojResolveAssemblyReference.cache
+E:\Projeckt2014\Numerologik\numerologik\numerologik\obj\Debug\numerologik.Form1.resources
+E:\Projeckt2014\Numerologik\numerologik\numerologik\obj\Debug\numerologik.Properties.Resources.resources
+E:\Projeckt2014\Numerologik\numerologik\numerologik\obj\Debug\numerologik.csproj.GenerateResource.Cache
+E:\Projeckt2014\Numerologik\numerologik\numerologik\obj\Debug\numerologik.exe
+E:\Projeckt2014\Numerologik\numerologik\numerologik\obj\Debug\numerologik.pdb
+E:\Projeckt2014\Клёвый проект\Numerologik\numerologik\numerologik\obj\Debug\numerologik.exe
+E:\Projeckt2014\Клёвый проект\Numerologik\numerologik\numerologik\obj\Debug\numerologik.pdb
+E:\Projeckt2014\Клёвый проект\Numerologik\numerologik\numerologik\bin\Debug\numerologik.exe
+E:\Projeckt2014\Клёвый проект\Numerologik\numerologik\numerologik\bin\Debug\numerologik.pdb
+E:\Projeckt2014\Клёвый проект\Numerologik\numerologik\numerologik\obj\Debug\numerologik.csprojResolveAssemblyReference.cache
+E:\Projeckt2014\Клёвый проект\Numerologik\numerologik\numerologik\obj\Debug\numerologik.Form1.resources
+E:\Projeckt2014\Клёвый проект\Numerologik\numerologik\numerologik\obj\Debug\numerologik.Properties.Resources.resources
+E:\Projeckt2014\Клёвый проект\Numerologik\numerologik\numerologik\obj\Debug\numerologik.csproj.GenerateResource.Cache
+E:\Projeckt2014\Клёвый проект\Numerologik\numerologik\numerologik\obj\Debug\numerologik.Inform.resources

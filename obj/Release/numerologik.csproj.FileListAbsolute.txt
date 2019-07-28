@@ -1,0 +1,22 @@
+E:\Projeckt2014\Клёвый проект\Numerologik\numerologik\numerologik\bin\Release\numerologik.exe
+E:\Projeckt2014\Клёвый проект\Numerologik\numerologik\numerologik\bin\Release\numerologik.pdb
+E:\Projeckt2014\Клёвый проект\Numerologik\numerologik\numerologik\obj\Release\numerologik.csprojResolveAssemblyReference.cache
+E:\Projeckt2014\Клёвый проект\Numerologik\numerologik\numerologik\obj\Release\numerologik.Inform.resources
+E:\Projeckt2014\Клёвый проект\Numerologik\numerologik\numerologik\obj\Release\numerologik.Form1.resources
+E:\Projeckt2014\Клёвый проект\Numerologik\numerologik\numerologik\obj\Release\numerologik.Properties.Resources.resources
+E:\Projeckt2014\Клёвый проект\Numerologik\numerologik\numerologik\obj\Release\numerologik.csproj.GenerateResource.Cache
+E:\Projeckt2014\Клёвый проект\Numerologik\numerologik\numerologik\obj\Release\numerologik.exe
+E:\Projeckt2014\Клёвый проект\Numerologik\numerologik\numerologik\obj\Release\numerologik.pdb
+N:\Projeckt2014\Клёвый проект\Numerologik\numerologik\numerologik\obj\Release\numerologik.exe
+N:\Projeckt2014\Клёвый проект\Numerologik\numerologik\numerologik\obj\Release\numerologik.pdb
+F:\Torov-Lab\Attachments_ct78@bk.ru_2015-07-17_19-41-46\numerologik\numerologik\numerologik\bin\Release\numerologik.exe.config
+F:\Torov-Lab\Attachments_ct78@bk.ru_2015-07-17_19-41-46\numerologik\numerologik\numerologik\bin\Release\numerologik.exe
+F:\Torov-Lab\Attachments_ct78@bk.ru_2015-07-17_19-41-46\numerologik\numerologik\numerologik\bin\Release\numerologik.pdb
+F:\Torov-Lab\Attachments_ct78@bk.ru_2015-07-17_19-41-46\numerologik\numerologik\numerologik\obj\Release\numerologik.csprojAssemblyReference.cache
+F:\Torov-Lab\Attachments_ct78@bk.ru_2015-07-17_19-41-46\numerologik\numerologik\numerologik\obj\Release\numerologik.Inform.resources
+F:\Torov-Lab\Attachments_ct78@bk.ru_2015-07-17_19-41-46\numerologik\numerologik\numerologik\obj\Release\numerologik.Form1.resources
+F:\Torov-Lab\Attachments_ct78@bk.ru_2015-07-17_19-41-46\numerologik\numerologik\numerologik\obj\Release\numerologik.Properties.Resources.resources
+F:\Torov-Lab\Attachments_ct78@bk.ru_2015-07-17_19-41-46\numerologik\numerologik\numerologik\obj\Release\numerologik.csproj.GenerateResource.cache
+F:\Torov-Lab\Attachments_ct78@bk.ru_2015-07-17_19-41-46\numerologik\numerologik\numerologik\obj\Release\numerologik.csproj.CoreCompileInputs.cache
+F:\Torov-Lab\Attachments_ct78@bk.ru_2015-07-17_19-41-46\numerologik\numerologik\numerologik\obj\Release\numerologik.exe
+F:\Torov-Lab\Attachments_ct78@bk.ru_2015-07-17_19-41-46\numerologik\numerologik\numerologik\obj\Release\numerologik.pdb
